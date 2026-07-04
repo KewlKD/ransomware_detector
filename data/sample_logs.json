@@ -1,0 +1,67 @@
+[
+    {
+        "event_type": "created",
+        "path": "./watched/report.txt",
+        "timestamp": "2026-07-04 12:00:01"
+    },
+    {
+        "event_type": "modified",
+        "path": "./watched/report.txt",
+        "timestamp": "2026-07-04 12:00:05"
+    },
+    {
+        "event_type": "modified",
+        "path": "./watched/report.txt",
+        "timestamp": "2026-07-04 12:00:06"
+    },
+    {
+        "event_type": "modified",
+        "path": "./watched/report.txt",
+        "timestamp": "2026-07-04 12:00:07"
+    },
+    {
+        "event_type": "created",
+        "path": "./watched/data_01.bin",
+        "timestamp": "2026-07-04 12:00:08"
+    },
+    {
+        "event_type": "modified",
+        "path": "./watched/data_01.bin",
+        "timestamp": "2026-07-04 12:00:09"
+    },
+    {
+        "event_type": "modified",
+        "path": "./watched/data_01.bin",
+        "timestamp": "2026-07-04 12:00:10"
+    },
+    {
+        "event_type": "modified",
+        "path": "./watched/data_01.bin",
+        "timestamp": "2026-07-04 12:00:11"
+    },
+    {
+        "event_type": "modified",
+        "path": "./watched/data_01.bin",
+        "timestamp": "2026-07-04 12:00:12"
+    },
+    {
+        "event_type": "renamed",
+        "path": "./watched/data_01.bin -> ./watched/data_01.locked",
+        "timestamp": "2026-07-04 12:00:13"
+    },
+    {
+        "event_type": "created",
+        "path": "./watched/image.png",
+        "timestamp": "2026-07-04 12:01:00"
+    },
+    {
+        "event_type": "modified",
+        "path": "./watched/image.png",
+        "timestamp": "2026-07-04 12:01:02"
+    },
+    {
+        "event_type": "deleted",
+        "path": "./watched/old_notes.txt",
+        "timestamp": "2026-07-04 12:01:10"
+    }
+]

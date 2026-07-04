@@ -1,0 +1,4 @@
+2026-07-04 11:26:32 | ERROR    | RansomwareDetector | Directory does not exist: watched
+2026-07-04 11:29:03 | INFO     | RansomwareDetector | Monitoring: watched
+2026-07-04 11:29:03 | INFO     | RansomwareDetector | Started monitoring watched
+2026-07-04 11:29:03 | INFO     | RansomwareDetector | Press Ctrl+C to stop.
