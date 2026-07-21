@@ -58,9 +58,7 @@ ransomware-detector/
     ├── test_entropy.py
     ├── test_hashing.py
     ├── test_monitor.py
-    ├── test_tracker.py
-    ├── test_heuristics.py
-    └── test_time_utils.py
+    
 ```
 
 ---
